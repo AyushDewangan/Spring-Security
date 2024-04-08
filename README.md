@@ -21,5 +21,5 @@ Topics covered:
 18. Grant Types
 
 Refer to this link for more: https://github.com/eazybytes/springsecurity6
-
+Course Link: https://www.udemy.com/course/spring-security-zero-to-master/?couponCode=ST8MT40924
 Angular Code Need to Be Added.
