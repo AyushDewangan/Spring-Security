@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "65fb370a5851c1c8e4b58913"
+  },
+  "customer_id": 1,
+  "account_number": 1865764534,
+  "account_type": "Savings",
+  "branch_address": "123 Main Street, New York",
+  "create_dt": {
+    "$date": "2024-03-20T19:20:42.847Z"
+  }
+},
+{
+  "_id": 7654321,
+  "customer_id": 6,
+  "account_type": "Saving Account",
+  "branch_address": "Raipur",
+  "create_dt": "2024-02-19T19:25:27.485+00:00",
+  "_class": "com.example.demo.ag.model.AGAccounts"
+}]

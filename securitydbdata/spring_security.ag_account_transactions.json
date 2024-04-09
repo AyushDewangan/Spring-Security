@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "65fb37545851c1c8e4b58914"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "Ug8c/4RMQB6DUvAozTxlhQ==",
+      "subType": "04"
+    }
+  },
+  "account_number": 1865764534,
+  "customer_id": 1,
+  "transaction_dt": {
+    "$date": "2024-03-13T19:21:56.370Z"
+  },
+  "transaction_summary": "Coffee Shop",
+  "transaction_type": "Withdrawal",
+  "transaction_amt": 30,
+  "closing_balance": 34500,
+  "create_dt": {
+    "$date": "2024-03-13T19:21:56.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37545851c1c8e4b58915"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "WYrs4SXeRRe+idZORZm/7A==",
+      "subType": "04"
+    }
+  },
+  "account_number": 1865764534,
+  "customer_id": 1,
+  "transaction_dt": {
+    "$date": "2024-03-14T19:21:56.370Z"
+  },
+  "transaction_summary": "Uber",
+  "transaction_type": "Withdrawal",
+  "transaction_amt": 100,
+  "closing_balance": 34400,
+  "create_dt": {
+    "$date": "2024-03-14T19:21:56.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37545851c1c8e4b58916"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "jIAE3QBtT+SWA/WRnMYgBA==",
+      "subType": "04"
+    }
+  },
+  "account_number": 1865764534,
+  "customer_id": 1,
+  "transaction_dt": {
+    "$date": "2024-03-15T19:21:56.370Z"
+  },
+  "transaction_summary": "Self Deposit",
+  "transaction_type": "Deposit",
+  "transaction_amt": 500,
+  "closing_balance": 34900,
+  "create_dt": {
+    "$date": "2024-03-15T19:21:56.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37545851c1c8e4b58917"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "U66vH91iQgKiZ4cjmvzgzw==",
+      "subType": "04"
+    }
+  },
+  "account_number": 1865764534,
+  "customer_id": 1,
+  "transaction_dt": {
+    "$date": "2024-03-16T19:21:56.370Z"
+  },
+  "transaction_summary": "Ebay",
+  "transaction_type": "Withdrawal",
+  "transaction_amt": 600,
+  "closing_balance": 34300,
+  "create_dt": {
+    "$date": "2024-03-16T19:21:56.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37545851c1c8e4b58918"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "h7TJ72LBS/GouEtG+Wmejw==",
+      "subType": "04"
+    }
+  },
+  "account_number": 1865764534,
+  "customer_id": 1,
+  "transaction_dt": {
+    "$date": "2024-03-18T19:21:56.370Z"
+  },
+  "transaction_summary": "OnlineTransfer",
+  "transaction_type": "Deposit",
+  "transaction_amt": 700,
+  "closing_balance": 35000,
+  "create_dt": {
+    "$date": "2024-03-18T19:21:56.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37545851c1c8e4b58919"
+  },
+  "transaction_id": {
+    "$binary": {
+      "base64": "S6atzMrKQ5yfB9O5iAB0Vw==",
+      "subType": "04"
+    }
+  },
+  "account_number": 1865764534,
+  "customer_id": 1,
+  "transaction_dt": {
+    "$date": "2024-03-19T19:21:56.370Z"
+  },
+  "transaction_summary": "Amazon.com",
+  "transaction_type": "Withdrawal",
+  "transaction_amt": 100,
+  "closing_balance": 34900,
+  "create_dt": {
+    "$date": "2024-03-19T19:21:56.370Z"
+  }
+},
+{
+  "_id": "sbi86746",
+  "account_number": 7654321,
+  "customer_id": 6,
+  "transaction_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "transaction_summary": "Self Transfer",
+  "transaction_type": "Self",
+  "transaction_amt": 1000,
+  "closing_balance": 100000,
+  "create_dt": "2024-02-19T19:25:27.485+00:00",
+  "_class": "com.example.demo.ag.model.AGAccountTransactions"
+}]

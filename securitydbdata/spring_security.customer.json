@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "65f9289cf7c12148f16f9e1f"
+  },
+  "id": 1,
+  "email": "example1@example.com",
+  "pwd": "password1",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "65f9289cf7c12148f16f9e20"
+  },
+  "id": 2,
+  "email": "example2@example.com",
+  "pwd": "password2",
+  "role": "user"
+},
+{
+  "_id": "3",
+  "email": "example3@example.com",
+  "pwd": "password3",
+  "role": "admin",
+  "_class": "com.example.demo.model.Customer"
+},
+{
+  "_id": "4",
+  "email": "example4@example.com",
+  "pwd": "password4",
+  "role": "user",
+  "_class": "com.example.demo.model.Customer"
+},
+{
+  "_id": "5",
+  "email": "example5@example.com",
+  "pwd": "$2a$10$ZIJg3mbgjMCUVkASXVXiQeSjS9w4v03Fql3QK/HnXA9PPt7.tc85u",
+  "role": "user",
+  "_class": "com.example.demo.model.Customer"
+}]

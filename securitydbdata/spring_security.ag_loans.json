@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "65fb37a85851c1c8e4b5891a"
+  },
+  "customer_id": 1,
+  "start_dt": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  },
+  "loan_type": "Home",
+  "total_loan": 200000,
+  "amount_paid": 50000,
+  "outstanding_amount": 150000,
+  "create_dt": {
+    "$date": "2020-10-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37a85851c1c8e4b5891b"
+  },
+  "customer_id": 1,
+  "start_dt": {
+    "$date": "2020-06-06T00:00:00.000Z"
+  },
+  "loan_type": "Vehicle",
+  "total_loan": 40000,
+  "amount_paid": 10000,
+  "outstanding_amount": 30000,
+  "create_dt": {
+    "$date": "2020-06-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37a85851c1c8e4b5891c"
+  },
+  "customer_id": 1,
+  "start_dt": {
+    "$date": "2018-02-14T00:00:00.000Z"
+  },
+  "loan_type": "Home",
+  "total_loan": 50000,
+  "amount_paid": 10000,
+  "outstanding_amount": 40000,
+  "create_dt": {
+    "$date": "2018-02-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37a85851c1c8e4b5891d"
+  },
+  "customer_id": 1,
+  "start_dt": {
+    "$date": "2018-02-14T00:00:00.000Z"
+  },
+  "loan_type": "Personal",
+  "total_loan": 10000,
+  "amount_paid": 3500,
+  "outstanding_amount": 6500,
+  "create_dt": {
+    "$date": "2018-02-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": 1,
+  "customer_id": 6,
+  "start_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "loan_type": "Home Loan",
+  "total_loan": 10000,
+  "amount_paid": 1000,
+  "outstanding_amount": 9000,
+  "create_dt": "2024-02-19T19:25:27.485+00:00",
+  "_class": "com.example.demo.ag.model.AGLoans"
+}]

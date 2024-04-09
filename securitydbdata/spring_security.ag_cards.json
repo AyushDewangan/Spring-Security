@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65fb37dc5851c1c8e4b5891e"
+  },
+  "card_number": "4565XXXX4656",
+  "customer_id": 1,
+  "card_type": "Credit",
+  "total_limit": 10000,
+  "amount_used": 500,
+  "available_amount": 9500,
+  "create_dt": {
+    "$date": "2024-03-20T19:24:12.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37dc5851c1c8e4b5891f"
+  },
+  "card_number": "3455XXXX8673",
+  "customer_id": 1,
+  "card_type": "Credit",
+  "total_limit": 7500,
+  "amount_used": 600,
+  "available_amount": 6900,
+  "create_dt": {
+    "$date": "2024-03-20T19:24:12.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fb37dc5851c1c8e4b58920"
+  },
+  "card_number": "2359XXXX9346",
+  "customer_id": 1,
+  "card_type": "Credit",
+  "total_limit": 20000,
+  "amount_used": 4000,
+  "available_amount": 16000,
+  "create_dt": {
+    "$date": "2024-03-20T19:24:12.218Z"
+  }
+},
+{
+  "_id": 1,
+  "customer_id": 6,
+  "card_number": "431114334",
+  "card_type": "Master",
+  "total_limit": 10000,
+  "amount_used": 1000,
+  "available_amount": 9000,
+  "create_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "_class": "com.example.demo.ag.model.AGCards"
+},
+{
+  "_id": 2,
+  "customer_id": 6,
+  "card_number": "43187694",
+  "card_type": "Rupay",
+  "total_limit": 10000,
+  "amount_used": 3000,
+  "available_amount": 7000,
+  "create_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "_class": "com.example.demo.ag.model.AGCards"
+}]

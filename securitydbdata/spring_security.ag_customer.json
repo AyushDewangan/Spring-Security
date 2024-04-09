@@ -1,0 +1,28 @@
+[{
+  "_id": 0,
+  "name": "ag1",
+  "email": "ag1@ag.com",
+  "mobile_number": "9878987678",
+  "pwd": "$2a$10$TLt.QoJqO3iq/NeiM3en9e4UuRGnnwH91aWO9ctd47/t4gl9D1wDW",
+  "role": "user",
+  "create_dt": "2024-03-21",
+  "_class": "com.example.demo.ag.model.AGCustomer"
+},
+{
+  "_id": 1,
+  "name": "ag2",
+  "email": "ag2@ag.com",
+  "mobile_number": "9878987678",
+  "pwd": "$2a$10$rhtaACDWvNFguU9neBc7Sunk7d8RSuBbYg64BwsKXXDFPzY4tdF/.",
+  "role": "admin",
+  "create_dt": "2024-03-21",
+  "_class": "com.example.demo.ag.model.AGCustomer"
+},
+{
+  "_id": 6,
+  "email": "example6@example.com",
+  "pwd": "$2a$10$FwNBPXjof/qdj3.IQGyREe.oL84UULlwXGbL1aG7yDiZ1VCgZRWva",
+  "role": "admin",
+  "create_dt": "2024-03-23",
+  "_class": "com.example.demo.ag.model.AGCustomer"
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": 0,
+  "notice_summary": "Home Loan Interest rates reduced",
+  "notice_details": "Home loan interest rates are reduced as per the government guidelines.…",
+  "notic_beg_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "notic_end_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "create_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "_class": "com.example.demo.ag.model.AGNotice"
+},
+{
+  "_id": 1,
+  "notice_summary": "Car Loan Interest rates reduced",
+  "notice_details": "Car loan interest rates are reduced as per the government guidelines.…",
+  "notic_beg_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "notic_end_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "create_dt": {
+    "$date": "2024-02-19T19:25:27.485Z"
+  },
+  "_class": "com.example.demo.ag.model.AGNotice"
+}]

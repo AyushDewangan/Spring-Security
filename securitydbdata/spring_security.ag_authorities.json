@@ -1,0 +1,36 @@
+[{
+  "_id": 1,
+  "name": "VIEWACCOUNT",
+  "customer_id": 6,
+  "_class": "com.example.demo.ag.model.AGAuthority"
+},
+{
+  "_id": 2,
+  "name": "VIEWCARDS",
+  "customer_id": 6,
+  "_class": "com.example.demo.ag.model.AGAuthority"
+},
+{
+  "_id": 3,
+  "name": "VIEWLOANS",
+  "customer_id": 6,
+  "_class": "com.example.demo.ag.model.AGAuthority"
+},
+{
+  "_id": 6,
+  "name": "VIEWBALANCE",
+  "customer_id": 6,
+  "_class": "com.example.demo.ag.model.AGAuthority"
+},
+{
+  "_id": 5,
+  "name": "ROLE_USER",
+  "customer_id": 6,
+  "_class": "com.example.demo.ag.model.AGAuthority"
+},
+{
+  "_id": 4,
+  "name": "ROLE_ADMIN",
+  "customer_id": 6,
+  "_class": "com.example.demo.ag.model.AGAuthority"
+}]
